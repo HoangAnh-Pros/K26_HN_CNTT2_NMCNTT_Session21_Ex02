@@ -1,0 +1,18 @@
+Bài 2 : Đánh giá chất lượng câu trả lời khi xử lý lỗi lập trình
+*Vấn đề : Bạn gặp lỗi "terminal process failed" trên vs code và lên tra cứu lỗi trên StackOverflow
+*Yêu cầu :
+--> phân tích ưu/nhược điểm của từng câu trả lời dựa trên 3 tiêu chí: Tích xanh, Điểm Vote và Thời gian đăng.
+--> Lựa chọn câu trả lời bạn sẽ áp dụng và lập luận tại sao (lưu ý bẫy về phiên bản phần mềm đã cũ).
+*Cách giải bài toán :
+**Phần 1 : phân tích ưu nhược của 3 tiêu chí.
+      - Tiêu chí 1: Tích xanh
+      + Ưu điểm : dộ tin cậy cao được kiểm chúng
+      + Nhược điểm : có thể nó quá cồng kềnh những ít rủi do nhất
+      - Tiêu chí 2 : Điểm vote
+      + Ưu điểm : đã được nhiều người kiểm chúng và sử dụng
+      + Nhược điểm : rủi ro lộ bảo mật , thông tin nếu do những người có ý đồ xấu upvote để người khác dùng nhằm mục đích xấu.
+      - Tiêu chí 3 : Thời gian đăng
+      + Ưu điểm : đã được kiểm chúng từ rất lâu
+      + Nhược điểm : có thể đã bị khai tử, rủi ro bảo mật
+--> lựa chọn của em là : có tích xanh
+        -Bởi vì đây là 1 trong những cách an toàn nhất do đã được kiểm chúng từ web
